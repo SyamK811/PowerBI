@@ -1,0 +1,201 @@
+Invoice No,Purchase Date,Customer ID,Customer Name,Vendor Name,Product,Purchase Price,Selling Price,Quantity,Tax 
+INV1001,17-05-2025,CUST001,Mira Gupta,TechZone Pvt Ltd,Keyboard,400,600,3,12
+INV1002,16-05-2025,CUST002,Prisha Chopra,SmartBuy Ltd,Router,2000,2700,4,18
+INV1003,14-05-2025,CUST003,Shaurya Mehta,Global Traders,USB Hub,300,450,4,12
+INV1004,18-05-2025,CUST004,Aarohi Balan,Global Traders,Router,2000,2700,5,18
+INV1005,05-05-2025,CUST005,Meera Mehta,Gadget World,Monitor,7000,8500,4,18
+INV1006,31-05-2025,CUST006,Yuvan Jain,SmartBuy Ltd,Headphones,800,1200,1,5
+INV1007,19-05-2025,CUST007,Myra Das,OfficeMart,Headphones,800,1200,5,5
+INV1008,08-05-2025,CUST008,Jiya Balan,Gadget World,Headphones,800,1200,3,5
+INV1009,20-05-2025,CUST009,Myra Dubey,OfficeMart,Printer,6000,7500,5,18
+INV1010,25-05-2025,CUST010,Laksh Desai,TechZone Pvt Ltd,Printer,6000,7500,2,18
+INV1011,26-05-2025,CUST011,Rohan Verma,TechZone Pvt Ltd,Web Camera,1500,2200,1,18
+INV1012,15-05-2025,CUST012,Ira Desai,Gadget World,External HDD,3500,4800,3,18
+INV1013,23-05-2025,CUST013,Rohan Sharma,SmartBuy Ltd,Smartphone,12000,14500,1,12
+INV1014,10-05-2025,CUST014,Riya Yadav,SmartBuy Ltd,External HDD,3500,4800,5,18
+INV1015,07-05-2025,CUST015,Ira Sharma,Global Traders,Printer,6000,7500,2,18
+INV1016,28-05-2025,CUST016,Jiya Singh,OfficeMart,Headphones,800,1200,2,5
+INV1017,26-05-2025,CUST017,Aarohi Roy,SmartBuy Ltd,Monitor,7000,8500,4,18
+INV1018,08-05-2025,CUST018,Aarav Patel,TechZone Pvt Ltd,Headphones,800,1200,1,5
+INV1019,30-05-2025,CUST019,Laksh Yadav,Gadget World,Router,2000,2700,1,18
+INV1020,26-05-2025,CUST020,Kabir Reddy,OfficeMart,USB Hub,300,450,4,12
+INV1021,17-05-2025,CUST021,Myra Iyer,OfficeMart,Headphones,800,1200,1,5
+INV1022,11-05-2025,CUST022,Reyansh Mishra,TechZone Pvt Ltd,Printer,6000,7500,4,18
+INV1023,19-05-2025,CUST023,Anvi Desai,Global Traders,USB Hub,300,450,2,12
+INV1024,12-05-2025,CUST024,Reyansh Thakur,TechZone Pvt Ltd,Laptop,45000,52000,3,18
+INV1025,30-05-2025,CUST025,Anika Verma,Gadget World,USB Hub,300,450,5,12
+INV1026,25-05-2025,CUST026,Myra Pandey,SmartBuy Ltd,Keyboard,400,600,2,12
+INV1027,27-05-2025,CUST027,Diya Ghosh,OfficeMart,Laptop,45000,52000,3,18
+INV1028,16-05-2025,CUST028,Aditya Gupta,Gadget World,Keyboard,400,600,3,12
+INV1029,08-05-2025,CUST029,Anika Chopra,SmartBuy Ltd,Web Camera,1500,2200,2,18
+INV1030,01-05-2025,CUST030,Om Chopra,OfficeMart,Monitor,7000,8500,3,18
+INV1031,02-05-2025,CUST031,Navya Reddy,SmartBuy Ltd,Smartphone,12000,14500,3,12
+INV1032,01-05-2025,CUST032,Tara Verma,OfficeMart,Smartphone,12000,14500,4,12
+INV1033,22-05-2025,CUST033,Veer Menon,TechZone Pvt Ltd,Laptop,45000,52000,1,18
+INV1034,20-05-2025,CUST034,Kiara Joshi,SmartBuy Ltd,External HDD,3500,4800,3,18
+INV1035,29-05-2025,CUST035,Laksh Mehta,TechZone Pvt Ltd,Router,2000,2700,4,18
+INV1036,06-05-2025,CUST036,Arjun Desai,Gadget World,Laptop,45000,52000,4,18
+INV1037,24-05-2025,CUST037,Jiya Menon,OfficeMart,Headphones,800,1200,5,5
+INV1038,23-05-2025,CUST038,Jiya Thakur,Global Traders,Headphones,800,1200,4,5
+INV1039,04-05-2025,CUST039,Ira Pandey,Global Traders,Headphones,800,1200,3,5
+INV1040,04-05-2025,CUST040,Jiya Pandey,OfficeMart,External HDD,3500,4800,2,18
+INV1041,16-05-2025,CUST041,Anika Banerjee,SmartBuy Ltd,External HDD,3500,4800,1,18
+INV1042,07-05-2025,CUST042,Tara Pandey,OfficeMart,Smartphone,12000,14500,4,12
+INV1043,07-05-2025,CUST043,Om Dubey,Global Traders,Router,2000,2700,5,18
+INV1044,18-05-2025,CUST044,Saanvi Pandey,Global Traders,Smartphone,12000,14500,3,12
+INV1045,29-05-2025,CUST045,Neil Sharma,OfficeMart,Web Camera,1500,2200,1,18
+INV1046,29-05-2025,CUST046,Aanya Patel,OfficeMart,Keyboard,400,600,5,12
+INV1047,27-05-2025,CUST047,Siddharth Ghosh,TechZone Pvt Ltd,External HDD,3500,4800,5,18
+INV1048,15-05-2025,CUST048,Vivaan Mehta,SmartBuy Ltd,External HDD,3500,4800,4,18
+INV1049,05-05-2025,CUST049,Aarohi Kumar,OfficeMart,Headphones,800,1200,3,5
+INV1050,03-05-2025,CUST050,Rohan Nair,OfficeMart,Smartphone,12000,14500,2,12
+INV1051,04-05-2025,CUST051,Ishaan Kumar,TechZone Pvt Ltd,Router,2000,2700,5,18
+INV1052,25-05-2025,CUST052,Meera Pandey,SmartBuy Ltd,Printer,6000,7500,4,18
+INV1053,16-05-2025,CUST053,Siddharth Iyer,Gadget World,Router,2000,2700,2,18
+INV1054,09-05-2025,CUST054,Riya Chopra,SmartBuy Ltd,Web Camera,1500,2200,3,18
+INV1055,19-05-2025,CUST055,Saanvi Patel,Gadget World,Smartphone,12000,14500,3,12
+INV1056,10-05-2025,CUST056,Anika Joshi,Global Traders,Headphones,800,1200,5,5
+INV1057,02-05-2025,CUST057,Om Chatterjee,SmartBuy Ltd,Monitor,7000,8500,1,18
+INV1058,12-05-2025,CUST058,Veer Singh,OfficeMart,Web Camera,1500,2200,3,18
+INV1059,15-05-2025,CUST059,Aanya Balan,OfficeMart,Keyboard,400,600,4,12
+INV1060,05-05-2025,CUST060,Anika Chatterjee,OfficeMart,Laptop,45000,52000,5,18
+INV1061,25-05-2025,CUST061,Mira Dubey,TechZone Pvt Ltd,Router,2000,2700,5,18
+INV1062,15-05-2025,CUST062,Zoya Thakur,OfficeMart,Smartphone,12000,14500,4,12
+INV1063,16-05-2025,CUST063,Aarav Kumar,SmartBuy Ltd,Printer,6000,7500,5,18
+INV1064,15-05-2025,CUST064,Atharv Joshi,SmartBuy Ltd,Web Camera,1500,2200,1,18
+INV1065,21-05-2025,CUST065,Anay Jain,Global Traders,External HDD,3500,4800,2,18
+INV1066,07-05-2025,CUST066,Dev Ghosh,SmartBuy Ltd,Laptop,45000,52000,1,18
+INV1067,17-05-2025,CUST067,Aryan Menon,OfficeMart,Laptop,45000,52000,5,18
+INV1068,04-05-2025,CUST068,Navya Nair,Global Traders,Router,2000,2700,1,18
+INV1069,26-05-2025,CUST069,Kiara Desai,OfficeMart,Headphones,800,1200,3,5
+INV1070,09-05-2025,CUST070,Dev Kumar,TechZone Pvt Ltd,Printer,6000,7500,2,18
+INV1071,25-05-2025,CUST071,Mira Rana,Global Traders,Printer,6000,7500,3,18
+INV1072,29-05-2025,CUST072,Kabir Das,OfficeMart,Router,2000,2700,4,18
+INV1073,15-05-2025,CUST073,Kiara Chatterjee,SmartBuy Ltd,Laptop,45000,52000,5,18
+INV1074,16-05-2025,CUST074,Ishaan Reddy,TechZone Pvt Ltd,Router,2000,2700,5,18
+INV1075,04-05-2025,CUST075,Tara Banerjee,OfficeMart,USB Hub,300,450,4,12
+INV1076,06-05-2025,CUST076,Veer Reddy,Gadget World,Keyboard,400,600,3,12
+INV1077,27-05-2025,CUST077,Om Pillai,OfficeMart,Printer,6000,7500,4,18
+INV1078,23-05-2025,CUST078,Siddharth Patel,SmartBuy Ltd,Keyboard,400,600,2,12
+INV1079,14-05-2025,CUST079,Saanvi Mishra,SmartBuy Ltd,USB Hub,300,450,3,12
+INV1080,17-05-2025,CUST080,Anvi Agarwal,SmartBuy Ltd,USB Hub,300,450,1,12
+INV1081,15-05-2025,CUST081,Dev Kapoor,TechZone Pvt Ltd,Headphones,800,1200,1,5
+INV1082,20-05-2025,CUST082,Prisha Roy,TechZone Pvt Ltd,USB Hub,300,450,1,12
+INV1083,25-05-2025,CUST083,Reyansh Sharma,Gadget World,Laptop,45000,52000,3,18
+INV1084,07-05-2025,CUST084,Veer Banerjee,SmartBuy Ltd,Printer,6000,7500,4,18
+INV1085,30-05-2025,CUST085,Siddharth Pandey,OfficeMart,Printer,6000,7500,4,18
+INV1086,04-05-2025,CUST086,Atharv Pillai,SmartBuy Ltd,Keyboard,400,600,3,12
+INV1087,28-05-2025,CUST087,Krishna Banerjee,Gadget World,Printer,6000,7500,3,18
+INV1088,19-05-2025,CUST088,Aditya Chopra,SmartBuy Ltd,USB Hub,300,450,2,12
+INV1089,28-05-2025,CUST089,Siddharth Sharma,Global Traders,Printer,6000,7500,5,18
+INV1090,15-05-2025,CUST090,Shaurya Pillai,OfficeMart,Printer,6000,7500,2,18
+INV1091,10-05-2025,CUST091,Om Agarwal,SmartBuy Ltd,Printer,6000,7500,4,18
+INV1092,21-05-2025,CUST092,Meera Roy,TechZone Pvt Ltd,Printer,6000,7500,2,18
+INV1093,01-05-2025,CUST093,Neil Rana,OfficeMart,Headphones,800,1200,3,5
+INV1094,25-05-2025,CUST094,Aditya Joshi,Gadget World,Headphones,800,1200,5,5
+INV1095,18-05-2025,CUST095,Advait Patel,Gadget World,Smartphone,12000,14500,5,12
+INV1096,29-05-2025,CUST096,Myra Joshi,OfficeMart,Laptop,45000,52000,5,18
+INV1097,01-05-2025,CUST097,Mira Reddy,TechZone Pvt Ltd,External HDD,3500,4800,4,18
+INV1098,10-05-2025,CUST098,Rohan Das,OfficeMart,Monitor,7000,8500,4,18
+INV1099,01-05-2025,CUST099,Niva Das,OfficeMart,Printer,6000,7500,3,18
+INV1100,08-05-2025,CUST100,Aarav Pandey,Global Traders,Keyboard,400,600,5,12
+INV1101,07-05-2025,CUST101,Navya Pillai,SmartBuy Ltd,Web Camera,1500,2200,4,18
+INV1102,02-05-2025,CUST102,Atharv Thakur,OfficeMart,Keyboard,400,600,5,12
+INV1103,23-05-2025,CUST103,Aryan Desai,SmartBuy Ltd,Web Camera,1500,2200,2,18
+INV1104,05-05-2025,CUST104,Neil Das,SmartBuy Ltd,Web Camera,1500,2200,4,18
+INV1105,24-05-2025,CUST105,Anay Sharma,Global Traders,Web Camera,1500,2200,2,18
+INV1106,09-05-2025,CUST106,Atharv Chopra,TechZone Pvt Ltd,Laptop,45000,52000,1,18
+INV1107,15-05-2025,CUST107,Diya Mishra,SmartBuy Ltd,Smartphone,12000,14500,3,12
+INV1108,15-05-2025,CUST108,Aarav Yadav,OfficeMart,External HDD,3500,4800,1,18
+INV1109,07-05-2025,CUST109,Rohan Agarwal,OfficeMart,Keyboard,400,600,5,12
+INV1110,24-05-2025,CUST110,Veer Nair,Gadget World,Keyboard,400,600,3,12
+INV1111,01-05-2025,CUST111,Advait Desai,OfficeMart,Printer,6000,7500,4,18
+INV1112,21-05-2025,CUST112,Siddharth Singh,TechZone Pvt Ltd,Laptop,45000,52000,1,18
+INV1113,02-05-2025,CUST113,Neil Mishra,OfficeMart,Smartphone,12000,14500,2,12
+INV1114,20-05-2025,CUST114,Veer Jain,TechZone Pvt Ltd,Monitor,7000,8500,2,18
+INV1115,03-05-2025,CUST115,Aanya Kapoor,SmartBuy Ltd,External HDD,3500,4800,3,18
+INV1116,05-05-2025,CUST116,Diya Mehta,OfficeMart,Router,2000,2700,3,18
+INV1117,29-05-2025,CUST117,Anika Nair,TechZone Pvt Ltd,USB Hub,300,450,5,12
+INV1118,25-05-2025,CUST118,Rohan Banerjee,Global Traders,Laptop,45000,52000,3,18
+INV1119,12-05-2025,CUST119,Arjun Ghosh,Gadget World,Keyboard,400,600,1,12
+INV1120,05-05-2025,CUST120,Jiya Das,SmartBuy Ltd,Laptop,45000,52000,1,18
+INV1121,22-05-2025,CUST121,Aanya Rana,TechZone Pvt Ltd,Monitor,7000,8500,2,18
+INV1122,21-05-2025,CUST122,Diya Thakur,Gadget World,USB Hub,300,450,5,12
+INV1123,17-05-2025,CUST123,Kiara Pillai,OfficeMart,Smartphone,12000,14500,4,12
+INV1124,04-05-2025,CUST124,Laksh Balan,TechZone Pvt Ltd,Keyboard,400,600,3,12
+INV1125,18-05-2025,CUST125,Siddharth Reddy,TechZone Pvt Ltd,Smartphone,12000,14500,5,12
+INV1126,06-05-2025,CUST126,Anika Patel,Global Traders,External HDD,3500,4800,1,18
+INV1127,16-05-2025,CUST127,Riya Gupta,OfficeMart,Printer,6000,7500,5,18
+INV1128,18-05-2025,CUST128,Arjun Reddy,Gadget World,Laptop,45000,52000,4,18
+INV1129,25-05-2025,CUST129,Vivaan Yadav,OfficeMart,Laptop,45000,52000,4,18
+INV1130,22-05-2025,CUST130,Laksh Iyer,SmartBuy Ltd,External HDD,3500,4800,3,18
+INV1131,18-05-2025,CUST131,Reyansh Gupta,Global Traders,Monitor,7000,8500,1,18
+INV1132,13-05-2025,CUST132,Niva Kumar,SmartBuy Ltd,Smartphone,12000,14500,3,12
+INV1133,20-05-2025,CUST133,Neil Ghosh,SmartBuy Ltd,Laptop,45000,52000,1,18
+INV1134,06-05-2025,CUST134,Veer Chopra,TechZone Pvt Ltd,External HDD,3500,4800,3,18
+INV1135,18-05-2025,CUST135,Kiara Agarwal,Gadget World,Monitor,7000,8500,2,18
+INV1136,24-05-2025,CUST136,Jiya Agarwal,SmartBuy Ltd,Router,2000,2700,5,18
+INV1137,23-05-2025,CUST137,Aryan Singh,OfficeMart,Printer,6000,7500,5,18
+INV1138,01-05-2025,CUST138,Dev Dubey,Global Traders,Printer,6000,7500,1,18
+INV1139,04-05-2025,CUST139,Aarav Agarwal,SmartBuy Ltd,External HDD,3500,4800,4,18
+INV1140,27-05-2025,CUST140,Anika Jain,Gadget World,Smartphone,12000,14500,5,12
+INV1141,01-05-2025,CUST141,Advait Verma,SmartBuy Ltd,Keyboard,400,600,1,12
+INV1142,31-05-2025,CUST142,Neil Reddy,Gadget World,Laptop,45000,52000,1,18
+INV1143,22-05-2025,CUST143,Pari Verma,Gadget World,USB Hub,300,450,2,12
+INV1144,25-05-2025,CUST144,Arjun Yadav,TechZone Pvt Ltd,Monitor,7000,8500,1,18
+INV1145,08-05-2025,CUST145,Niva Pillai,SmartBuy Ltd,Printer,6000,7500,5,18
+INV1146,17-05-2025,CUST146,Advait Thakur,Global Traders,Keyboard,400,600,1,12
+INV1147,09-05-2025,CUST147,Prisha Das,Gadget World,Monitor,7000,8500,3,18
+INV1148,30-05-2025,CUST148,Anvi Balan,Global Traders,Printer,6000,7500,2,18
+INV1149,10-05-2025,CUST149,Anvi Dubey,Global Traders,Monitor,7000,8500,1,18
+INV1150,01-05-2025,CUST150,Kabir Yadav,Global Traders,External HDD,3500,4800,5,18
+INV1151,16-05-2025,CUST151,Ishaan Mishra,TechZone Pvt Ltd,Headphones,800,1200,1,5
+INV1152,08-05-2025,CUST152,Rohan Pillai,Global Traders,Monitor,7000,8500,3,18
+INV1153,25-05-2025,CUST153,Aarohi Yadav,OfficeMart,Keyboard,400,600,2,12
+INV1154,31-05-2025,CUST154,Ira Singh,TechZone Pvt Ltd,Headphones,800,1200,4,5
+INV1155,14-05-2025,CUST155,Arjun Kumar,TechZone Pvt Ltd,Printer,6000,7500,2,18
+INV1156,04-05-2025,CUST156,Arjun Iyer,TechZone Pvt Ltd,Printer,6000,7500,4,18
+INV1157,22-05-2025,CUST157,Aarav Roy,SmartBuy Ltd,Printer,6000,7500,3,18
+INV1158,17-05-2025,CUST158,Ira Das,OfficeMart,Laptop,45000,52000,2,18
+INV1159,26-05-2025,CUST159,Arjun Mishra,OfficeMart,External HDD,3500,4800,1,18
+INV1160,10-05-2025,CUST160,Meera Verma,OfficeMart,Headphones,800,1200,1,5
+INV1161,06-05-2025,CUST161,Advait Reddy,Global Traders,Web Camera,1500,2200,5,18
+INV1162,17-05-2025,CUST162,Laksh Patel,TechZone Pvt Ltd,USB Hub,300,450,5,12
+INV1163,04-05-2025,CUST163,Tara Sharma,TechZone Pvt Ltd,USB Hub,300,450,5,12
+INV1164,19-05-2025,CUST164,Aarohi Agarwal,Global Traders,Web Camera,1500,2200,2,18
+INV1165,02-05-2025,CUST165,Laksh Agarwal,Global Traders,Router,2000,2700,3,18
+INV1166,02-05-2025,CUST166,Advait Nair,TechZone Pvt Ltd,Keyboard,400,600,4,12
+INV1167,25-05-2025,CUST167,Meera Sharma,Gadget World,Router,2000,2700,5,18
+INV1168,13-05-2025,CUST168,Advait Roy,OfficeMart,Monitor,7000,8500,5,18
+INV1169,01-05-2025,CUST169,Vivaan Nair,OfficeMart,Keyboard,400,600,4,12
+INV1170,16-05-2025,CUST170,Advait Rana,TechZone Pvt Ltd,External HDD,3500,4800,3,18
+INV1171,08-05-2025,CUST171,Reyansh Pandey,TechZone Pvt Ltd,External HDD,3500,4800,4,18
+INV1172,22-05-2025,CUST172,Reyansh Yadav,Gadget World,Headphones,800,1200,3,5
+INV1173,12-05-2025,CUST173,Pari Joshi,OfficeMart,Printer,6000,7500,5,18
+INV1174,02-05-2025,CUST174,Niva Verma,TechZone Pvt Ltd,Web Camera,1500,2200,5,18
+INV1175,02-05-2025,CUST175,Ishaan Pandey,Gadget World,USB Hub,300,450,4,12
+INV1176,22-05-2025,CUST176,Mira Balan,Gadget World,Router,2000,2700,4,18
+INV1177,22-05-2025,CUST177,Myra Verma,OfficeMart,Web Camera,1500,2200,1,18
+INV1178,15-05-2025,CUST178,Neil Thakur,OfficeMart,Keyboard,400,600,3,12
+INV1179,17-05-2025,CUST179,Kabir Iyer,OfficeMart,Monitor,7000,8500,5,18
+INV1180,10-05-2025,CUST180,Atharv Reddy,TechZone Pvt Ltd,Keyboard,400,600,1,12
+INV1181,17-05-2025,CUST181,Krishna Mishra,Gadget World,Monitor,7000,8500,3,18
+INV1182,09-05-2025,CUST182,Advait Gupta,OfficeMart,USB Hub,300,450,4,12
+INV1183,07-05-2025,CUST183,Vivaan Patel,Global Traders,Headphones,800,1200,1,5
+INV1184,11-05-2025,CUST184,Ira Agarwal,Global Traders,Laptop,45000,52000,3,18
+INV1185,08-05-2025,CUST185,Aditya Balan,TechZone Pvt Ltd,Printer,6000,7500,5,18
+INV1186,06-05-2025,CUST186,Jiya Mehta,Gadget World,Printer,6000,7500,5,18
+INV1187,09-05-2025,CUST187,Pari Ghosh,Gadget World,Laptop,45000,52000,3,18
+INV1188,06-05-2025,CUST188,Navya Joshi,Gadget World,Headphones,800,1200,3,5
+INV1189,08-05-2025,CUST189,Prisha Pandey,OfficeMart,Monitor,7000,8500,4,18
+INV1190,19-05-2025,CUST190,Zoya Singh,Gadget World,Smartphone,12000,14500,5,12
+INV1191,06-05-2025,CUST191,Neil Nair,OfficeMart,USB Hub,300,450,4,12
+INV1192,21-05-2025,CUST192,Riya Thakur,OfficeMart,Web Camera,1500,2200,1,18
+INV1193,09-05-2025,CUST193,Anay Verma,Global Traders,Monitor,7000,8500,1,18
+INV1194,22-05-2025,CUST194,Laksh Mishra,SmartBuy Ltd,External HDD,3500,4800,2,18
+INV1195,29-05-2025,CUST195,Ishaan Nair,Gadget World,Keyboard,400,600,4,12
+INV1196,25-05-2025,CUST196,Saanvi Ghosh,OfficeMart,Router,2000,2700,5,18
+INV1197,20-05-2025,CUST197,Myra Pillai,SmartBuy Ltd,Smartphone,12000,14500,5,12
+INV1198,31-05-2025,CUST198,Aarohi Ghosh,Global Traders,Laptop,45000,52000,3,18
+INV1199,26-05-2025,CUST199,Jiya Verma,OfficeMart,Keyboard,400,600,2,12
+INV1200,25-05-2025,CUST200,Ira Reddy,Global Traders,Web Camera,1500,2200,3,18
